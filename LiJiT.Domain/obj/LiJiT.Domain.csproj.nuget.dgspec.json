@@ -1,0 +1,130 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/shirinmansouri/Documents/MAPD726/LiJiT_Two/LiJiT.Domain/LiJiT.Domain.csproj": {}
+  },
+  "projects": {
+    "/Users/shirinmansouri/Documents/MAPD726/LiJiT_Two/LiJiT.Domain/LiJiT.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/shirinmansouri/Documents/MAPD726/LiJiT_Two/LiJiT.Domain/LiJiT.Domain.csproj",
+        "projectName": "LiJiT.Domain",
+        "projectPath": "/Users/shirinmansouri/Documents/MAPD726/LiJiT_Two/LiJiT.Domain/LiJiT.Domain.csproj",
+        "packagesPath": "/Users/shirinmansouri/.nuget/packages/",
+        "outputPath": "/Users/shirinmansouri/Documents/MAPD726/LiJiT_Two/LiJiT.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/shirinmansouri/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/shirinmansouri/Documents/MAPD726/LiJiT_Two/LiJiT.Model/LiJiT.Model.csproj": {
+                "projectPath": "/Users/shirinmansouri/Documents/MAPD726/LiJiT_Two/LiJiT.Model/LiJiT.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.13, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/shirinmansouri/Documents/MAPD726/LiJiT_Two/LiJiT.Model/LiJiT.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/shirinmansouri/Documents/MAPD726/LiJiT_Two/LiJiT.Model/LiJiT.Model.csproj",
+        "projectName": "LiJiT.Model",
+        "projectPath": "/Users/shirinmansouri/Documents/MAPD726/LiJiT_Two/LiJiT.Model/LiJiT.Model.csproj",
+        "packagesPath": "/Users/shirinmansouri/.nuget/packages/",
+        "outputPath": "/Users/shirinmansouri/Documents/MAPD726/LiJiT_Two/LiJiT.Model/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/shirinmansouri/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,55 @@
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{29694412-9E84-4AAA-BA6C-37F03B9818F8}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="LiJiT.API/Controllers/ListingTypeController.cs">
+    <Files>
+      <File FileName="LiJiT.Domain/DTO/AboutContentDto.cs" Line="10" Column="22" />
+      <File FileName="LiJiT.API/MappingProfile/MappingProfile.cs" />
+      <File FileName="LiJiT.API/Controllers/ListingDetailController.cs" />
+      <File FileName="LiJiT.API/Controllers/AboutContentController.cs" />
+      <File FileName="LiJiT.Domain/Service/AboutContentService.cs" />
+      <File FileName="LiJiT.API/Configuration/RequestResponseLoggingMiddleware.cs" />
+      <File FileName="LiJiT.API/Startup.cs" />
+      <File FileName="LiJiT.API/Controllers/AuthenManagementController.cs" />
+      <File FileName="LiJiT.API/Program.cs" />
+      <File FileName="LiJiT.API/Models/JwtSettings.cs" />
+      <File FileName="LiJiT.API/appsettings.json" />
+      <File FileName="LiJiT.API/Configuration/ExceptionMiddleware.cs" />
+      <File FileName="LiJiT.API/Configuration/ErrorDetails.cs" />
+      <File FileName="LiJiT.API/Controllers/ListingTypeController.cs" Line="18" Column="56" />
+      <File FileName="LiJiT.API/Controllers/WeatherForecastController.cs" />
+      <File FileName="LiJiT.Test/LitingTypeControllerTest.cs" />
+      <File FileName="LiJiT.Domain/DTO/ListingDetailDto.cs" />
+      <File FileName="LiJiT.Domain/DTO/ListingTypeDto.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LiJiT" expanded="True">
+            <Node name="LiJiT.API" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="ListingTypeController.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+            </Node>
+            <Node name="LiJiT.Domain" expanded="True">
+              <Node name="DTO" expanded="True" />
+              <Node name="Service" expanded="True" />
+            </Node>
+            <Node name="LiJiT.Test" expanded="True" />
+            <Node name="LiJiT.Utility" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.LiJiT.Test PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.LiJiT.API PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
